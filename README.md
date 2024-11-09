@@ -26,4 +26,4 @@ python main.py
 ```
 
 ## Output
-https://pragya757.github.io/Carparking_space-counter/
+https://github.com/c1ph3r-fsocitey/Parking_Space_Counter/assets/109020327/34c46a91-0cfd-4bb6-a3b0-cf96525cd76a
